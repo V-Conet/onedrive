@@ -116,5 +116,12 @@
   "Welcome to your new onedrive-vercel-index 🎉": "Welcome to your new onedrive-vercel-index 🎉",
   "What is this?": "What is this?",
   "Where is the auth code? Did you follow step 2 you silly donut?": "Where is the auth code? Did you follow step 2 you silly donut?",
-  "Whoops, looks like we got a problem: {{error}}.": "Whoops, looks like we got a problem: {{error}}."
+  "Whoops, looks like we got a problem: {{error}}.": "Whoops, looks like we got a problem: {{error}}.",
+  "Add a track": "Add a track",
+  "Apply tracks": "Apply tracks",
+  "Customise subtitle": "Customise subtitle",
+  "Customise subtitle tracks of the media player.": "Customise subtitle tracks of the media player.",
+  "Loading subtitles...": "Loading subtitles...",
+  "Subtitle label": "Subtitle label",
+  "Subtitle source": "Subtitle source"
 }
